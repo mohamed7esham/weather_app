@@ -27,7 +27,6 @@ The main packages used in the project:
   intl: ^0.17.0
   sqflite: ^2.0.3+1
   path: ^1.8.2
-  syncfusion_flutter_charts: ^20.2.48
   sticky_headers: "^0.3.0"
   ```
 
