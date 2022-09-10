@@ -1,6 +1,19 @@
 # weather_app
 
-A new Flutter project.
+algoriza internship task 3 phas 2.
+# video
+https://www.awesomescreenshot.com/video/11009833?key=2698e083daadfaf4c6b72eed72990815
+
+#images 
+![image](https://user-images.githubusercontent.com/99971619/189497990-9a5a7304-eced-4569-9c7b-7dba18eafdc7.png)
+
+![image](https://user-images.githubusercontent.com/99971619/189498092-0735e5f0-1a5d-428a-ac4e-c8047d93a185.png)
+
+![image](https://user-images.githubusercontent.com/99971619/189498110-2a50fb4c-7096-4725-8fb0-55674c5a6ffa.png)
+
+![image](https://user-images.githubusercontent.com/99971619/189498188-c57211f3-dc8e-4d0f-9da5-a848feb234d5.png)
+
+
 
 ## Getting Started
 
