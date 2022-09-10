@@ -15,6 +15,21 @@ https://www.awesomescreenshot.com/video/11009833?key=2698e083daadfaf4c6b72eed729
 
 ![image](https://user-images.githubusercontent.com/99971619/189498188-c57211f3-dc8e-4d0f-9da5-a848feb234d5.png)
 
+# packages
+
+The main packages used in the project:
+
+  '''
+  lottie: ^1.4.2
+  font_awesome_flutter: ^10.1.0
+  flutter_bloc: ^8.1.1
+  dio: ^4.0.6
+  intl: ^0.17.0
+  sqflite: ^2.0.3+1
+  path: ^1.8.2
+  syncfusion_flutter_charts: ^20.2.48
+  sticky_headers: "^0.3.0"
+  '''
 
 
 ## Getting Started
